@@ -13,7 +13,7 @@
 - - -
 ## [API Collections](https://documenter.getpostman.com/view/25231971/2s935smgSK)
 - - -
-## ERD [사진](https://user-images.githubusercontent.com/106572156/222183190-bb51c7bf-23ed-4fcd-9010-fc4530222c9e.png)
+## ERD ![사진](https://user-images.githubusercontent.com/106572156/222183190-bb51c7bf-23ed-4fcd-9010-fc4530222c9e.png)
 
 - - -
 
