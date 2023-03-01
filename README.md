@@ -14,8 +14,10 @@
 ## [API Collections](https://documenter.getpostman.com/view/25231971/2s935smgSK)
 - - -
 ## ERD ![사진](https://user-images.githubusercontent.com/106572156/222183190-bb51c7bf-23ed-4fcd-9010-fc4530222c9e.png)
-
 - - -
+## 시연화면
+![캡처](https://user-images.githubusercontent.com/106572156/222185270-1176a163-d796-4a4e-95c2-27164093b530.PNG)
+![캡처](https://user-images.githubusercontent.com/106572156/222185250-2dfb6675-c168-4dcd-aebf-e30deb61a01a.PNG)
 
 ## 개발일지
 
