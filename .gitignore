@@ -1,0 +1,6 @@
+.DS_Store
+logs/
+build/
+.gradle/
+application.yml
+Secret.java
