@@ -16,9 +16,7 @@
 ## ERD ![사진](https://user-images.githubusercontent.com/106572156/222183190-bb51c7bf-23ed-4fcd-9010-fc4530222c9e.png)
 - - -
 ## 시연화면
-<img src="https://user-images.githubusercontent.com/106572156/222185250-2dfb6675-c168-4dcd-aebf-e30deb61a01a.PNG"  width="200" height="400"/>
-![캡처](https://user-images.githubusercontent.com/106572156/222185270-1176a163-d796-4a4e-95c2-27164093b530.PNG)
-![캡처](https://user-images.githubusercontent.com/106572156/222185250-2dfb6675-c168-4dcd-aebf-e30deb61a01a.PNG)
+<img src="https://user-images.githubusercontent.com/106572156/222185250-2dfb6675-c168-4dcd-aebf-e30deb61a01a.PNG"  width="250" height="400"/>
 
 ## 개발일지
 
