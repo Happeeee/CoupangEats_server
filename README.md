@@ -2,8 +2,7 @@
 ### ※ 해당 프로젝트의 템플릿에 대한 저작권은 (주)소프트스퀘어드에 있습니다
 - - -
 ## 기술 스택
-<img src="https://img.shields.io/badge/-SpringBoot-green"/>
-<img src="https://img.shields.io/badge/-nginx-yellowgreen"/>
+<img src="https://img.shields.io/badge/-SpringBoot-green"/> <img src="https://img.shields.io/badge/-nginx-yellowgreen"/>
 <img src="https://img.shields.io/badge/-MySQL-red"/>
 <img src="https://img.shields.io/badge/-AWS-orange"/>
 <img src="https://img.shields.io/badge/-JWT-blue"/>
