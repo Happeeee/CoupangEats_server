@@ -11,10 +11,10 @@
 - - -
 ## [API DOCUMENT](https://docs.google.com/spreadsheets/d/19_krKrCAip0LuEZJsWMf815BNcbxDeia/edit?usp=sharing&ouid=114720192267022828790&rtpof=true&sd=true)
 - - -
-## [ERD](https://aquerytool.com/aquerymain/index/?rurl=f0f4601e-7f60-4ab7-9280-5e5b94848bf5)
-#### * password : q8skt0 </h4>
-- - -
 ## [API Collections](https://documenter.getpostman.com/view/25231971/2s935smgSK)
+- - -
+## ERD [사진](https://user-images.githubusercontent.com/106572156/222183190-bb51c7bf-23ed-4fcd-9010-fc4530222c9e.png)
+
 - - -
 
 ## 개발일지
