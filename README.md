@@ -2,19 +2,19 @@
 ### ※ 해당 프로젝트의 템플릿에 대한 저작권은 (주)소프트스퀘어드에 있습니다
 - - -
 ## 기술 스택
-<img src="https://img.shields.io/badge/-SpringBoot-green"/><img src="https://img.shields.io/badge/-nginx-yellowgreen"/>
+<img src="https://img.shields.io/badge/-SpringBoot-green"/> <img src="https://img.shields.io/badge/-nginx-yellowgreen"/>
 <img src="https://img.shields.io/badge/-MySQL-red"/>
 <img src="https://img.shields.io/badge/-AWS-orange"/>
 <img src="https://img.shields.io/badge/-JWT-blue"/>
 <img src="https://img.shields.io/badge/-OAuth-yellow"/>
 
 - - -
-<a href="https://docs.google.com/spreadsheets/d/19_krKrCAip0LuEZJsWMf815BNcbxDeia/edit?usp=sharing&ouid=114720192267022828790&rtpof=true&sd=true"><h2>API DOCUMENT</h2></a>
+## API DOCUMENT(https://docs.google.com/spreadsheets/d/19_krKrCAip0LuEZJsWMf815BNcbxDeia/edit?usp=sharing&ouid=114720192267022828790&rtpof=true&sd=true)
 - - -
-<a href="https://aquerytool.com/aquerymain/index/?rurl=f0f4601e-7f60-4ab7-9280-5e5b94848bf5"><h2>ERD</h2></a>
-<h4> * password : q8skt0 </h4>
+## ERD(https://aquerytool.com/aquerymain/index/?rurl=f0f4601e-7f60-4ab7-9280-5e5b94848bf5)
+#### * password : q8skt0 </h4>
 - - -
-<a href="https://documenter.getpostman.com/view/25231971/2s935smgSK"><h2>API Collections</h2></a>
+## API Collections(https://documenter.getpostman.com/view/25231971/2s935smgSK)
 - - -
 
 ## 개발일지
